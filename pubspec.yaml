@@ -1,0 +1,24 @@
+name: hi_etugen
+description: A new Flutter project.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
+    - assets/alucard.jpg
+  fonts:
+    - family: Ubuntu
+      fonts:
+      - asset: assets/Ubuntu-L.ttf
+      - asset: assets/Ubuntu-M.ttf
+      - asset: assets/Ubuntu-B.ttf
+      - asset: assets/Ubuntu-C.ttf
